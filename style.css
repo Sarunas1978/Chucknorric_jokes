@@ -1,0 +1,71 @@
+.displayFlex{
+    display: flex;
+}
+.flexDirectionC{
+    flex-direction: column;
+}
+.displayJustifyContentC
+{
+    justify-content: center;
+}
+.displayJustifyContentSpaceB
+{
+    justify-content: space-between;
+}
+.alignContent{
+    align-content: center;
+}
+.alignItemsE{
+    align-items: flex-end;
+}
+.justifyItems{
+    justify-items: center;
+}
+.alignSelfE{
+    align-self: end;
+}
+.alignSelfC{
+    align-self: center;
+}
+.flexWrap{
+    flex-wrap: wrap;
+}
+
+.floatRight{
+    float: right;
+}
+.card{
+    margin: 20px;
+    width: 150px;
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.date, .url, .value{
+    padding: 3px;
+    width:150px;
+    overflow-wrap: break-word;
+    font-family: Arial;
+}
+button {
+    height: 40px;
+    color: white;
+    background: #a9a9a9;
+    border: 0px;
+    outline: none;
+}
+.input{
+    height: 36px;
+    padding: 0px;
+    font-family: Arial;
+    border: 0px;
+    outline: none;
+}
+.inputDate{
+    text-align: end;
+}
+
